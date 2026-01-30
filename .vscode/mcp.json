@@ -1,0 +1,8 @@
+{
+    "servers": {
+            "rhino-mcp-oauth": {
+            "transport": "streamable-http",
+            "url": "https://mcp-oauth.sandbox3.rhinoapi.com/ai/mcp"
+        }
+    }
+}
